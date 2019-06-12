@@ -1,5 +1,5 @@
 
-# 第一回Wordpressを使ってホームページを作ろう
+# 第一回</br>Wordpressを使ってホームページを作ろう
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常">
+<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常"></br>宮野くん
 >名前はわかったけど何ができるねん。。。
 
 ---
@@ -32,7 +32,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322146-e3f4ae00-8d0f-11e9-93a4-3ef6dc558814.png" width="200px" alt="フーン">
+<img src="https://user-images.githubusercontent.com/49388542/59322146-e3f4ae00-8d0f-11e9-93a4-3ef6dc558814.png" width="200px" alt="フーン"></br>宮野くん
 >それって必要なん？ホームページがあればいいんじゃないん？
 
 ---
@@ -41,7 +41,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ">
+<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ"></br>宮野くん
 >まあ、ほしい情報だけ見て終わるかな。。。
 
 ---
@@ -58,12 +58,12 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322143-e22aea80-8d0f-11e9-90d4-e208eb954aff.png" width="200px" alt="アウチ">
+<img src="https://user-images.githubusercontent.com/49388542/59322143-e22aea80-8d0f-11e9-90d4-e208eb954aff.png" width="200px" alt="アウチ"></br>宮野くん
 >・・・
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常">
+<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常"></br>宮野くん
 >わかりました。。。ゴミは要らないので更新するサイトを作ります。
 
 ---
@@ -72,7 +72,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ">
+<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ"></br>宮野くん
 >僕は知識があるからHTMLとCSSを巧みに使って更新するぜ！
 
 ---
@@ -81,7 +81,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常">
+<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常"></br>宮野くん
 >いやいや冗談です。もっと簡単な方法があるなら教えて下さい。
 
 ---
@@ -91,7 +91,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ">
+<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ"></br>宮野くん
 >簡単ってどれぐらい簡単なの？
 
 ---
@@ -100,7 +100,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322148-e525db00-8d0f-11e9-892a-7b288d43a702.png" width="200px" alt="お？">
+<img src="https://user-images.githubusercontent.com/49388542/59322148-e525db00-8d0f-11e9-892a-7b288d43a702.png" width="200px" alt="お？"></br>宮野くん
 >WEB上で更新できるって事？
 
 ---
@@ -109,7 +109,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322152-e6ef9e80-8d0f-11e9-94b0-6d42c95e8da3.png" width="200px" alt="ムム">
+<img src="https://user-images.githubusercontent.com/49388542/59322152-e6ef9e80-8d0f-11e9-94b0-6d42c95e8da3.png" width="200px" alt="ムム"></br>宮野くん
 >へー！いちいちFTPソフトとか利用したり面倒な事しなくていいの？
 ※WEBへアップロード用のソフトです。
 
@@ -119,7 +119,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常">
+<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常"></br>宮野くん
 >教えて下さい。
 
 ---
@@ -136,7 +136,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常">
+<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常"></br>宮野くん
 >僕は知ってます。
 
 ---
@@ -149,13 +149,13 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ">
+<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ"></br>宮野くん
 >お願いします。
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常">
->宮野くん：早く教えて下さい。
+<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常"></br>宮野くん
+>早く教えて下さい。
 
 ---
 
@@ -164,8 +164,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常">
->宮野くん：簡単に更新できるなら知りたいです。
+<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常"></br>宮野くん
+>簡単に更新できるなら知りたいです。
 
 ---
 
@@ -173,8 +173,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ">
->宮野くん：めんどくさー歴史はいいです。
+<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ"></br>宮野くん
+>めんどくさー歴史はいいです。
 
 ---
 
@@ -182,8 +182,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常">
->宮野くん：歴史学びます。
+<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常"></br>宮野くん
+>歴史学びます。
 
 ---
 
@@ -191,8 +191,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322146-e3f4ae00-8d0f-11e9-93a4-3ef6dc558814.png" width="200px" alt="フーン">
->宮野くん：そうだよね競争しないと伸びないもんね
+<img src="https://user-images.githubusercontent.com/49388542/59322146-e3f4ae00-8d0f-11e9-93a4-3ef6dc558814.png" width="200px" alt="フーン"></br>宮野くん
+>そうだよね競争しないと伸びないもんね
 
 ---
 
@@ -201,8 +201,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322148-e525db00-8d0f-11e9-892a-7b288d43a702.png" width="200px" alt="お？">
->宮野くん：えーすごいね
+<img src="https://user-images.githubusercontent.com/49388542/59322148-e525db00-8d0f-11e9-892a-7b288d43a702.png" width="200px" alt="お？"></br>宮野くん
+>えーすごいね
 
 ---
 
@@ -215,8 +215,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322146-e3f4ae00-8d0f-11e9-93a4-3ef6dc558814.png" width="200px" alt="フーン">
->宮野くん：なんでMTとWPに差が付いたの？
+<img src="https://user-images.githubusercontent.com/49388542/59322146-e3f4ae00-8d0f-11e9-93a4-3ef6dc558814.png" width="200px" alt="フーン"></br>宮野くん
+>なんでMTとWPに差が付いたの？
 
 ---
 
@@ -224,8 +224,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322143-e22aea80-8d0f-11e9-90d4-e208eb954aff.png" width="200px" alt="アウチ">
->宮野くん：！！！え！！無料なの！最高！
+<img src="https://user-images.githubusercontent.com/49388542/59322143-e22aea80-8d0f-11e9-90d4-e208eb954aff.png" width="200px" alt="アウチ"></br>宮野くん
+>！！！え！！無料なの！最高！
 
 ---
 
