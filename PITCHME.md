@@ -1,10 +1,9 @@
-# lets_wordpress
-Wordpressを使う意味から使い方、追加方法、オリジナルデザインまで
+
 # 第一回Wordpressを使ってホームページを作ろう
 
 ---
 
-![](https://i.imgur.com/WXiR0xI.png =100x)宮野くん
+宮野くん
 その前にWordpressってなんやねん！
 
 ---
