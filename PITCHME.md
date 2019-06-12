@@ -2,7 +2,10 @@
 # 第一回Wordpressを使ってホームページを作ろう
 
 ---
-<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常">宮野くんその前にWordpressってなんやねん！
+
+
+<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常">
+>>宮野くんその前にWordpressってなんやねん！
 
 ---
 
