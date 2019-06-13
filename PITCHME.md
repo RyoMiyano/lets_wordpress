@@ -1,5 +1,5 @@
 
-#</br>Wordpressを使ってホームページを作ろう
+## </br>Wordpressを使ってホームページを作ろう
 
 ---
 
@@ -247,8 +247,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ">
->宮野くん：技術者があつまっていいものを作っているんだね。
+<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ"></br>宮野くん
+>技術者があつまっていいものを作っているんだね。
 
 ---
 
@@ -257,8 +257,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ">
->宮野くん：中身が簡単に見れるから悪いことをたくらむ人にとってはかっこうの餌食だね！
+<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ"></br>宮野くん
+>中身が簡単に見れるから悪いことをたくらむ人にとってはかっこうの餌食だね！
 
 ---
 
@@ -282,8 +282,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322152-e6ef9e80-8d0f-11e9-94b0-6d42c95e8da3.png" width="200px" alt="ムム">
->宮野くん：いたちごっこだね。
+<img src="https://user-images.githubusercontent.com/49388542/59322152-e6ef9e80-8d0f-11e9-94b0-6d42c95e8da3.png" width="200px" alt="ムム"></br>宮野くん
+>いたちごっこだね。
 
 ---
 
@@ -300,8 +300,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322146-e3f4ae00-8d0f-11e9-93a4-3ef6dc558814.png" width="200px" alt="フーン">
->宮野くん：へー　無料と有料みたいな？
+<img src="https://user-images.githubusercontent.com/49388542/59322146-e3f4ae00-8d0f-11e9-93a4-3ef6dc558814.png" width="200px" alt="フーン"></br>宮野くん
+>へー　無料と有料みたいな？
 
 ---
 
@@ -314,8 +314,8 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ">
->宮野くん：そこで運営費をまかなっているんだね。
+<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ"></br>宮野くん
+>そこで運営費をまかなっているんだね。
 
 ---
 
@@ -324,7 +324,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ">
+<img src="https://user-images.githubusercontent.com/49388542/59322142-e0f9bd80-8d0f-11e9-91e5-33b647f055aa.png" width="200px" alt="ニヤリ"></br>宮野くん
 >じゃあ今回はダウンロードするタイプを使うんだね。
 
 ---
