@@ -6,23 +6,23 @@
 background : https://user-images.githubusercontent.com/49388542/59418990-f3a1ee80-8e04-11e9-8454-6b15d3e2b2ab.png
 
 #Logo Setting
-logo : assets/logo.png
+#logo : assets/logo.png
 
 #Slide Number Setting
-slide-number: true
+#slide-number: true
 
 #Footnote Setting
-footnote :  "© 2017 kakisoft"
+footnote :  "© 2019 monocram"
 
 #Highlight Setting
 #highlight : monokai
-highlight : mono-blue
+#highlight : mono-blue
 
 #Mouse Wheel Setting
-mousewheel : true
+#mousewheel : true
 
 #Transition Setting(遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
-transition : convex
+transition : zoom
 
 #Vertical Center Setting（falseで上詰め）
 #vertical-center : false
