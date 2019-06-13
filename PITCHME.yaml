@@ -25,7 +25,7 @@ footnote :  "© 2019 monocram"
 #transition : convex
 
 #Vertical Center Setting（falseで上詰め）
-#vertical-center : false
+vertical-center : false
 
 #Auto Slide Setting(1000で1秒)
 #autoslide : 5000
