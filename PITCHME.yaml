@@ -1,14 +1,31 @@
-#テーマの設定
-theme : sky
+    
+#Theme Setting(black, moon, night, beige, sky, white が設定可)
+theme : night
 
+#Background Setting
+#background : assets/bg.png
 
-#ロゴアイコンの設定
-logo : logo.png
+#Logo Setting
+logo : assets/logo.png
 
-
-#フットノートの設定
-footnote : "© 2017 sample Inc."
-
-
-#スライドのページ数表示の設定
+#Slide Number Setting
 slide-number: true
+
+#Footnote Setting
+footnote :  "© 2017 kakisoft"
+
+#Highlight Setting
+#highlight : monokai
+highlight : mono-blue
+
+#Mouse Wheel Setting
+mousewheel : true
+
+#Transition Setting(遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
+transition : fade
+
+#Vertical Center Setting（falseで上詰め）
+#vertical-center : false
+
+#Auto Slide Setting(1000で1秒)
+#autoslide : 5000
