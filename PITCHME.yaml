@@ -22,7 +22,7 @@ highlight : mono-blue
 mousewheel : true
 
 #Transition Setting(遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
-transition : fade
+transition : convex
 
 #Vertical Center Setting（falseで上詰め）
 #vertical-center : false
