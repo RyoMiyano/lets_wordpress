@@ -1,9 +1,9 @@
     
 #Theme Setting(black, moon, night, beige, sky, white が設定可)
-theme : night
+#theme : night
 
 #Background Setting
-#background : assets/bg.png
+background : https://user-images.githubusercontent.com/49388542/59418990-f3a1ee80-8e04-11e9-8454-6b15d3e2b2ab.png
 
 #Logo Setting
 logo : assets/logo.png
