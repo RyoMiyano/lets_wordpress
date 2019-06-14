@@ -22,7 +22,7 @@ footnote :  "© 2019 monocram"
 #mousewheel : true
 
 #Transition Setting(遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
-transition : none
+transition : default
 
 #Vertical Center Setting（falseで上詰め）
 #vertical-center : false
