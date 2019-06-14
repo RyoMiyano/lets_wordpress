@@ -10,10 +10,10 @@
 +++
 
 <a id="sec1"></a>
-# 第一回　Wordpressをとは何か
+## 第一回　Wordpressをとは何か
 
 +++
-@snap[north span-30]
+@snap[north span-20]
 ![通常](assets/img/1.png)
 @snapend
 宮野くん
