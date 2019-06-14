@@ -13,7 +13,7 @@
 # 第一回　Wordpressをとは何か
 
 +++
-@snap[east span-10]
+@snap[span-10]
 ![通常](assets/img/1.png)
 @snapend
 宮野くん
