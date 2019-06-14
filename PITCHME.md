@@ -13,8 +13,9 @@
 # 第一回　Wordpressをとは何か
 
 +++
-
----?image=assets/img/1.png&size=40%
+@snap[east span-50]
+![通常](image=assets/img/1.png)
+@snapend
 宮野くん
 >その前にWordpressってなんやねん！
 
