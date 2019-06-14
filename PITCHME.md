@@ -13,11 +13,14 @@
 ## 第一回　Wordpressをとは何か
 
 +++
+
 @snap[midpoint span-20]
 ![通常](assets/img/1.png)
 @snapend
+@snap[south span-100 feature-details]
 宮野くん
 >その前にWordpressってなんやねん！
+@snapend
 
 +++
 
