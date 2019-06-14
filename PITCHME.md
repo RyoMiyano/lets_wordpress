@@ -14,7 +14,7 @@
 
 +++
 @snap[east span-50]
-![通常](image=assets/img/1.png)
+![通常](assets/img/1.png)
 @snapend
 宮野くん
 >その前にWordpressってなんやねん！
