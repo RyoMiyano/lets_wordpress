@@ -14,7 +14,7 @@
 
 +++
 
-<img src="https://user-images.githubusercontent.com/49388542/59322139-dfc89080-8d0f-11e9-94ef-3dee7e339fed.png" width="200px" alt="通常"></br>宮野くん
+<img src="assets/img/1.png" width="200px" alt="通常"></br>宮野くん
 >その前にWordpressってなんやねん！
 
 +++
