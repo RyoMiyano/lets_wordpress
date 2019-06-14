@@ -16,9 +16,10 @@
 
 @snap[midpoint span-20]
 ![通常](assets/img/1.png)
+@snapend
 宮野くん
 >その前にWordpressってなんやねん！
-@snapend
+
 
 +++
 
