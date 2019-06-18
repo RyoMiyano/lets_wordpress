@@ -3,14 +3,14 @@
 
 +++
 
-* [第１章](#sec1)
-* [第２章](#sec2)
-* [第３章](#sec3)
+<a href="#sec1">第1回　Wordpressをとは何か</a>
+<a href="#sec2">第2回　Wordpressを入れたサイトを作ってみよう。</a>
+<a href="#sec3">第3回　Wordpressをカスタマイズしてみよう</a>
 
 +++
 
 <a id="sec1"></a>
-## 第一回　Wordpressをとは何か
+## 第1回　Wordpressをとは何か
 
 +++
 
