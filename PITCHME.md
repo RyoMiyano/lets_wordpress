@@ -4,7 +4,7 @@
 +++
 
 <a href="#sec1">第1回　Wordpressをとは何か</a>
-[第2回　Wordpressを入れたサイトを作ってみよう。](#第2回　Wordpressを入れたサイトを作ってみよう。)
+[第2回-Wordpressを入れたサイトを作ってみよう。](#第2回　Wordpressを入れたサイトを作ってみよう。)
 <a href="#sec3">第3回　Wordpressをカスタマイズしてみよう</a>
 
 +++
