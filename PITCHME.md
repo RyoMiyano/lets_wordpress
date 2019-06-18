@@ -20,7 +20,8 @@
 
 +++
 
-## WordpressとはCMSです。
+## Wordpressとは  
+## CMSです。
 
 +++
 
