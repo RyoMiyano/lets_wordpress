@@ -3,9 +3,9 @@
 
 +++
 
-<a href="#sec1">第1回　Wordpressをとは何か</a>
-[第2回-Wordpressを入れたサイトを作ってみよう。](#第2回　Wordpressを入れたサイトを作ってみよう。)
-<a href="#sec3">第3回　Wordpressをカスタマイズしてみよう</a>
+-[第1回　Wordpressをとは何か](https://gitpitch.com/RyoMiyano/lets_wordpress)
+  -[第2回　Wordpressを入れたサイトを作ってみよう。](https://gitpitch.com/RyoMiyano/lets_wordpress/setti)
+    -[第3回　Wordpressをカスタマイズしてみよう。](https://gitpitch.com/RyoMiyano/lets_wordpress/cus)
 
 +++
 
