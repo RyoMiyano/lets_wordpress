@@ -1,4 +1,4 @@
-
+theme-override : assets/css/PITCHME.css
 ## Wordpressを使って  
 ## ホームページを作ろう
 
