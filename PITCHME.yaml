@@ -8,6 +8,8 @@ background : assets/img/bg1.jpg
 #Logo Setting
 #logo : assets/logo.png
 
+theme-override : assets/css/PITCHME.css
+
 #Slide Number Setting
 #slide-number: true
 
