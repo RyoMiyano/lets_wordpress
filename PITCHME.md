@@ -3,9 +3,9 @@
 
 +++
 
-@color[#DC143C]([第1回　Wordpressをとは何か](https://gitpitch.com/RyoMiyano/lets_wordpress))  
-@color[#DC143C]([第2回　Wordpressを入れたサイトを作ってみよう。](https://gitpitch.com/RyoMiyano/lets_wordpress/setti))  
-@color[#DC143C]([第3回　Wordpressをカスタマイズしてみよう。](https://gitpitch.com/RyoMiyano/lets_wordpress/cus))  
+[@color[blue](第1回　Wordpressをとは何か)](https://gitpitch.com/RyoMiyano/lets_wordpress)  
+[第2回　Wordpressを入れたサイトを作ってみよう。](https://gitpitch.com/RyoMiyano/lets_wordpress/setti)  
+[第3回　Wordpressをカスタマイズしてみよう。](https://gitpitch.com/RyoMiyano/lets_wordpress/cus)  
 
 +++
 
