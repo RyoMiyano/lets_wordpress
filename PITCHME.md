@@ -14,10 +14,7 @@
 
 +++
 
-@snap[midpoint span-20]
-![通常](assets/img/1.png)
-@snapend
-宮野くん
+<img src="assets/img/1.png" width="200px" alt="通常"></br>宮野くん
 >その前にWordpressってなんやねん！
 
 
