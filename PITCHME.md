@@ -73,7 +73,7 @@
 
 +++
 
-<img src="assets/img/wp1.jpeg" width="300px" alt="通常"></br>2019年6月の画面
+<img src="assets/img/wp1.jpeg" width="500px" alt="通常"></br>2019年6月の画面
 
 +++
 
@@ -83,6 +83,16 @@
 
 <img src="assets/img/1.png" width="200px" alt="通常"></br>宮野くん
 >ドメインとサーバーとWPの元！
+
++++
+
+### 簡単にやる事は  
+ - ①サーバーにWP用のデータベースを作る|
+ - ②WPの元をFTPでアップロード|
+ - ③データベースとWPの元を繋げる（設定）|
+ - ※ドメインなどの設定は割愛します。|
+ 
++++
 
 
 
