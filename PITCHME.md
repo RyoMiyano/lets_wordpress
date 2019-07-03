@@ -3,6 +3,7 @@
 +++
 
 ### 目次
+
  - [@color[white](WPの準備)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti) 
  - [@color[white](データベースを作ろう)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti) 
  - [@color[white](FTPを使おう)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti) 
