@@ -4,10 +4,10 @@
 
 ### 目次
 
- - [@color[white](WPの準備)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti#/0/2) 
- - [@color[white](データベースを作ろう)](https://gitpitch.com/RyoMiyano/lets_wordpress/datebase#/) 
- - [@color[white](FTPを使おう)](https://gitpitch.com/RyoMiyano/lets_wordpress/ftp#/) 
- - [@color[white](設定を行おう)](https://gitpitch.com/RyoMiyano/lets_wordpress/settei#/) 
+ - [@color[white](WPの準備)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti#/0/2) |
+ - [@color[white](データベースを作ろう)](https://gitpitch.com/RyoMiyano/lets_wordpress/datebase#/) |
+ - [@color[white](FTPを使おう)](https://gitpitch.com/RyoMiyano/lets_wordpress/ftp#/) |
+ - [@color[white](設定を行おう)](https://gitpitch.com/RyoMiyano/lets_wordpress/settei#/) |
  
 +++
 
@@ -33,53 +33,58 @@
 
 +++
 
-### Wordpressを入れたサイトを作るにはデータベースが必要です。
+### さくらサーバーのログイン画面です。契約したサーバーによってデザインが違います。
 
 +++
 
-### そのため、サーバーはスペックを見てちゃんと選んで下さいね。
-※使いたいWPバージョンの推奨スペックを確認、特にPHP
+<img src="assets/img/wpc2.jpeg" width="200px" alt="ホーム"></br>コンパネのホーム
 
 +++
 
-<img src="assets/img/6.png" width="200px" alt="ムムム"></br>宮野くん
->データベースが使えるサーバーかあ。。
+### メニューが並んでいて行いたい事をクリックして選びましょう。
 
 +++
 
-<img src="assets/img/7.png" width="200px" alt="ムオオ"></br>宮野くん
->激安サーバーだとだめか・・くそう・・・
+<img src="assets/img/wpc3.jpeg" width="200px" alt="データベースの場所"></br>赤枠の部分
 
 +++
 
-### 比較的安価なサクラサーバーやXサーバーで問題ないでしょう。
-※googleのサービスで無料で作る事も可能
+### 今回はWPを作るためにデータベースが欲しいのでデータベースの設定をクリック
+
++++
+
+### すると・・・
+
++++
+
+<img src="assets/img/wpc4.jpeg" width="200px" alt="データベースを作る"></br>データベースの設定はこんな感じ
 
 +++
 
 <img src="assets/img/4.png" width="200px" alt="フーン"></br>宮野くん
->じゃあ、今回はサクラサーバーと・・・
+>ほほお・・・
 
 +++
 
-<img src="assets/img/2.png" width="200px" alt="ニヤ"></br>宮野くん
->ドメインはサクラサーバーの無料のサブドメインでいいや
+### データベースの新規作成をクリックします。
 
 +++
 
-### まあ、問題は無いでしょう。
-※ちゃんとしたホームページを作るならドメインはちゃんと契約しましょう。
+<img src="assets/img/wpc5.jpeg" width="200px" alt="データベースを作る2"></br>入力欄が出てきます。
 
 +++
 
-### それでは、さっそく
-### Wordpressの元をダウンロードしましょう。
+### 入力していきましょう。
 
 +++
 
-<img src="assets/img/2.png" width="200px" alt="ニヤ"></br>宮野くん
->待ってました！
+<img src="assets/img/wpc6.jpeg" width="200px" alt="データベースを作る2"></br>入力欄が出てきます。
 
++++
+
+ - ### MySQLバージョン 
+ - データベースの種類とバージョンです。今回はそのままでOK | 
+ 
 +++
 
 ### Wordpresのサイトにアクセスしてダウンロードして下さい。
