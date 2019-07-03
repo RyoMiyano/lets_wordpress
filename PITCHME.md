@@ -126,7 +126,7 @@
 +++
 
 ### 次回に続く
- - [@color[white](目次へ)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti) 
+ - [@color[white](目次へ)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti#/0/1) 
  
 
 
