@@ -5,9 +5,9 @@
 ### 目次
 
  - [@color[white](WPの準備)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti#/0/2) |
- - [@color[white](データベースを作ろう)](https://gitpitch.com/RyoMiyano/lets_wordpress/datebase#/) |
- - [@color[white](FTPを使おう)](https://gitpitch.com/RyoMiyano/lets_wordpress/ftp#/) |
- - [@color[white](設定を行おう)](https://gitpitch.com/RyoMiyano/lets_wordpress/settei#/) |
+ - [@color[white](データベースを作ろう)](https://gitpitch.com/RyoMiyano/lets_wordpress/datebase#/0/2) |
+ - [@color[white](FTPを使おう)](https://gitpitch.com/RyoMiyano/lets_wordpress/ftp#/0/2) |
+ - [@color[white](設定を行おう)](https://gitpitch.com/RyoMiyano/lets_wordpress/settei#/0/2) |
  
 +++
 
