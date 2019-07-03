@@ -2,6 +2,14 @@
 
 +++
 
+### 目次
+ - [@color[white](WPの準備)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti) 
+ - [@color[white](データベースを作ろう)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti) 
+ - [@color[white](FTPを使おう)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti) 
+ - [@color[white](設定を行おう)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti) 
+ 
++++
+
 <img src="assets/img/4.png" width="200px" alt="フーン"></br>宮野くん
 >Wordpressをダウンロードしてきたら、無料って事やけど、とりあえずどうすればいいの？
 
@@ -118,6 +126,7 @@
 +++
 
 ### 次回に続く
+ - [@color[white](目次へ)](https://gitpitch.com/RyoMiyano/lets_wordpress/setti) 
  
 
 
