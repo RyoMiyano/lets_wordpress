@@ -15,7 +15,7 @@
 
 +++
 
-<img src="assets/img/4.png" width="200px" alt="フーン"></br>宮野くん
+<img src="assets/img/4.png" width="500px" alt="フーン"></br>宮野くん
 >さくらサーバー契約してきましたよ！
 
 +++
