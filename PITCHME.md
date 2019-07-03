@@ -29,7 +29,7 @@
 
 +++
 
-<img src="assets/img/wpc1.jpg" width="200px" alt="ログイン画面"></br>ログイン画面
+<img src="assets/img/wpc1.jpeg" width="200px" alt="ログイン画面"></br>ログイン画面
 
 +++
 
